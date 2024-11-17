@@ -101,4 +101,4 @@ I created [this video](https://youtu.be/Kh14BV8y4Vw) to explain the concept.
 
 Please see [this page](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c).
 
-Trying: :simle: (please see in Github)
+Trying: :smile: (please see in Github)
