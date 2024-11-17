@@ -102,3 +102,8 @@ I created [this video](https://youtu.be/Kh14BV8y4Vw) to explain the concept.
 Please see [this page](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c).
 
 Trying: :smile: (please see in Github)
+
+
+### Adjusting the size of an image
+
+Teacher explained how to adjust the size of an image. Instead using the Makdown syntax to add an image (`![]()`), you can insert with the HTML tag `img`, set the source of the image (normal, with the parameter `src`) and set the parameters `width` or `height` of the image (inside the tag img).
