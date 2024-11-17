@@ -31,3 +31,11 @@ git push batatinha main
 ```
 
 Supposing that the person wanna push to the branch main.
+
+You can see here the command teacher used:
+
+![Git remote set url command](images/git-remote-set-url.png)
+
+```
+git remote set url <ssh-address>
+```
