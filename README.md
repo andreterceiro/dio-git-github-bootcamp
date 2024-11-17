@@ -51,3 +51,22 @@ I made [this video](https://youtu.be/luh0hxxJWoY) to explain the difference.
 ### git push -u origin master ("origin master" - both examples)
 
 I made [this video](https://youtu.be/Qic96PMxTw4) talking about `git push` with the parameter `-u`.
+
+
+### gi branch batatinha ("batatinha" is an example)
+
+I used to create a branch and checkout it with the command ("batatinha" is an example of branch name):
+
+```
+git checkout -b batatinha
+```
+
+But is possible to only create a branch without passing to use it. This previous command creates a branch (as the following command) **and checkouts it** (the next command don't do it). The command to only create a branch is:
+
+```
+git branch batatinha
+```
+
+Remember, "batatinha" is only an example of a branch name.
+
+The point in the tree of commits is the same in both cases, ok?
