@@ -45,4 +45,9 @@ After this command is only needed a simple `git push`.
 
 ### comparing "git branch -m" to "git branch -M"
 
-I make [this video](https://youtu.be/luh0hxxJWoY) to explain the difference.
+I made [this video](https://youtu.be/luh0hxxJWoY) to explain the difference.
+
+
+### git push -u origin master ("origin master" - both examples)
+
+I made [this video](https://youtu.be/Qic96PMxTw4) talking about `git push` with the parameter `-u`.
