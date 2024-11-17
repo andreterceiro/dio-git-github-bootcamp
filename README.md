@@ -72,6 +72,6 @@ Remember, "batatinha" is only an example of a branch name.
 The point in the tree of commits is the same in both cases, ok?
 
 
-# Releases in Github
+### Releases in Github
 
 I explain in [this video](https://youtu.be/OWwOx51X8EM).
