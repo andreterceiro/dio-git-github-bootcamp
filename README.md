@@ -41,3 +41,8 @@ git remote set url <ssh-address>
 ```
 
 After this command is only needed a simple `git push`.
+
+
+### comparing "git branch -m" to "git branch -M"
+
+I make [this video](https://youtu.be/luh0hxxJWoY) to explain the difference.
