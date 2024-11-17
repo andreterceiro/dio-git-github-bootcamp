@@ -39,3 +39,5 @@ You can see here the command teacher used:
 ```
 git remote set url <ssh-address>
 ```
+
+After this command is only needed a simple `git push`.
