@@ -95,3 +95,10 @@ I created [this video](https://youtu.be/Kh14BV8y4Vw) to explain the concept.
 ### A little comments about Markdown
 
 > This way, with a ">" symbol, I can cite something.
+
+
+### Github Emojis
+
+Please see [this page](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c).
+
+Trying: :simle: (please see in Github)
