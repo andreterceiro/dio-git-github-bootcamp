@@ -107,3 +107,16 @@ Trying: :smile: (please see in Github)
 ### Adjusting the size of an image
 
 Teacher explained how to adjust the size of an image. Instead using the Makdown syntax to add an image (`![]()`), you can insert with the HTML tag `img`, set the source of the image (normal, with the parameter `src`) and set the parameters `width` or `height` of the image (inside the tag img).
+
+
+### Github stats
+
+Teacher recomended [this link](https://github.com/anuraghazra/github-readme-stats).
+
+There I got this code (with smal adjusts) to generate a stats card:
+
+`![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreterceiro&show_icons=true&theme=radical)`
+
+
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreterceiro&show_icons=true&theme=radical)
+
