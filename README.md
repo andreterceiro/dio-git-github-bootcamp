@@ -77,6 +77,11 @@ The point in the tree of commits is the same in both cases, ok?
 I explain in [this video](https://youtu.be/OWwOx51X8EM).
 
 
-### Gists
+### Gists in Github
 
 I created [this video](https://youtu.be/5FhYrjc4_EQ) to explain the concept.
+
+
+### Issues in Github
+
+I created [this video](https://youtu.be/r3ta36dhz8A) to explain the concept.
