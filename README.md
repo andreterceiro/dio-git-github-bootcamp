@@ -127,6 +127,6 @@ I made [this video](https://youtu.be/VU5lpIVE1Zc) about this question.
 
 There is three types of Github accounts:
 
-- Personal;
-- Organization;
-- Enterprise.
+- **Personal**: "normal" Github accounts when the subscription was made using a personal email;
+- **Organization**: organizaion accounts are shared accounts where an unlimited number of people can colaborate across many projects a once. Permissions are done in a tiered approach. Each user log in in your own personal account and any actions the person takes on your account and their action will have effect on the organization, but tracked to a personal account;
+- **Enterprise**: This type of account can have multiple organizations or teams.
