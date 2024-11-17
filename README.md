@@ -85,3 +85,10 @@ I created [this video](https://youtu.be/5FhYrjc4_EQ) to explain the concept.
 ### Issues in Github
 
 I created [this video](https://youtu.be/r3ta36dhz8A) to explain the concept.
+
+
+### Wiki in Github
+
+I created [this video](https://youtu.be/Kh14BV8y4Vw) to explain the concept.
+
+
