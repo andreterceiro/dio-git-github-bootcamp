@@ -121,3 +121,12 @@ There I got this code (with smal adjusts) to generate a stats card:
 ![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreterceiro&show_icons=true&theme=radical)
 
 I made [this video](https://youtu.be/VU5lpIVE1Zc) about this question.
+
+
+## Github accounts
+
+There is three types of Github accounts:
+
+- Personal;
+- Organization;
+- Enterprise.
