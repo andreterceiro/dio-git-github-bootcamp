@@ -141,4 +141,4 @@ Exists a free Github plan for organizations.
 
 Resources of a Github pro account:
 
-![detailed resources of a Github pro account](images/detailes-resources-github-pro-account.png)
+![detailed resources of a Github pro account](images/detailed-resources-github-pro-account.png)
