@@ -133,4 +133,6 @@ There is three types of Github accounts:
 
 An official Microsoft [training](https://learn.microsoft.com/en-us/training/paths/github-foundations/) about Github.
 
-(5:18) [class](https://web.dio.me/course/conhecendo-sobre-as-contas-do-github/learning/a1031fb3-168f-4dae-b599-f371ea82a45b?back=/track/formacao-github-certification&tab=undefined&moduleId=undefined)
+Privileges of a personal Github account:
+
+![detailed privileges of a Github personal account](images/detailed-privileges-github-personal-account.png)
