@@ -133,12 +133,12 @@ There is three types of Github accounts:
 
 An official Microsoft [training](https://learn.microsoft.com/en-us/training/paths/github-foundations/) about Github.
 
-Privileges of a personal Github account:
+Resources related to a personal Github account:
 
 ![detailed resources of a Github personal account](images/detailed-resources-github-personal-account.png)
 
 Exists a free Github plan for organizations.
 
-Resources of a Github pro account:
+Resources related to a pro Github account:
 
 ![detailed resources of a Github pro account](images/detailed-resources-github-pro-account.png)
