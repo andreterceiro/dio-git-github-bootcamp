@@ -136,3 +136,5 @@ An official Microsoft [training](https://learn.microsoft.com/en-us/training/path
 Privileges of a personal Github account:
 
 ![detailed privileges of a Github personal account](images/detailed-privileges-github-personal-account.png)
+
+Exists a free Github plan for organizations.
