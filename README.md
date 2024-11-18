@@ -135,10 +135,10 @@ An official Microsoft [training](https://learn.microsoft.com/en-us/training/path
 
 Privileges of a personal Github account:
 
-![detailed privileges of a Github personal account](images/detailed-privileges-github-personal-account.png)
+![detailed resources of a Github personal account](images/detailed-resources-github-personal-account.png)
 
 Exists a free Github plan for organizations.
 
 Resources of a Github pro account:
 
-![detailed resources of a Github personal account](images/detailed-resources-github-personal-account.png)
+![detailed resources of a Github pro account](images/detailes-resources-github-pro-account.png)
