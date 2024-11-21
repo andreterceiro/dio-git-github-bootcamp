@@ -153,3 +153,13 @@ This plan have:
 - Github Enterprise Cloud;
 
 This plans have specifics number os limits of resources, like 50 GB limit to packages storage.
+
+Summarizing:
+
+Plan types:
+
+- Personal;
+- Organization;
+- Enterprise.
+
+Plans free and pro existing also for organizations.
