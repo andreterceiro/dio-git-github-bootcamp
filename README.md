@@ -172,3 +172,8 @@ Plans free and pro existing also for organizations.
 ### Capabilities of Github Mobile
 
 ![capabilities of Github mobile](images/capabilities-github-mobile.png)
+
+
+### Capabilities of Github Desktop
+
+![capabilities of Github desktop](images/capabilities-github-desktop.png)
