@@ -127,7 +127,7 @@ There I got this code (with smal adjusts) to generate a stats card:
 I made [this video](https://youtu.be/VU5lpIVE1Zc) about this question.
 
 
-## Github accounts
+### Github accounts
 
 There is three types of Github accounts:
 
@@ -167,3 +167,8 @@ Plan types:
 - Enterprise.
 
 Plans free and pro existing also for organizations.
+
+
+### Capabilities of Github Mobile
+
+![capabilities of Github mobile](images/capabilities-github-mobile.png)
