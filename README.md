@@ -146,3 +146,10 @@ Resources related to a pro Github account:
 Github pro and Github team has similar resources.
 
 The focus of Github enterprise is in companies. It have more granular configuration related to security.
+
+This plan have:
+
+- Github Enterprise Server;
+- Github Enterprise Cloud;
+
+This plans have specifics number os limits of resources, like 50 GB limit to packages storage.
