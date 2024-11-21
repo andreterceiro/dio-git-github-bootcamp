@@ -189,3 +189,5 @@ Github charges may include:
 There are also charges per use as example in the case of Github Actions (related to the time of the use).
 
 [Link](https://docs.github.com/en/apps/github-marketplace/selling-your-app-on-github-marketplace/pricing-plans-for-github-marketplace-apps) about pricing related to Github marketplace apps.
+
+[Capabilities and prices](https://github.com/pricing) related to subscription Github plans.
