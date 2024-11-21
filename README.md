@@ -144,3 +144,5 @@ Resources related to a pro Github account:
 ![detailed resources of a Github pro account](images/detailed-resources-github-pro-account.png)
 
 Github pro and Github team has similar resources.
+
+The focus of Github enterprise is in companies. It have more granular configuration related to security.
