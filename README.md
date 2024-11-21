@@ -177,3 +177,11 @@ Plans free and pro existing also for organizations.
 ### Capabilities of Github Desktop
 
 ![capabilities of Github desktop](images/capabilities-github-desktop.png)
+
+
+### Github charges
+
+Github charges may include:
+
+- Subscriptpions;
+- Paid products. Examples: Github Copilot and apps from the marketplace of Github.
