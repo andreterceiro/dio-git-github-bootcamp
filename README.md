@@ -185,3 +185,5 @@ Github charges may include:
 
 - Subscriptpions;
 - Paid products. Examples: Github Copilot and apps from the marketplace of Github.
+
+There are also charges per use as example in the case of Github Actions (related to the time of the use).
