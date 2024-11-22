@@ -262,3 +262,5 @@ You can interact with Google Copilot through a chat (left side of the next image
 ### Github codespaces
 
 Github codespaces allows you to user a Github Docker container to you, user, uses to delevop. You will still need your workstation to connect to Github Codespaces, but all tools that you will need to develop will be available in the Gihub Codespaces container.
+
+Github Codespaces is a paid service, but you can use it for free for 60 minutes.
