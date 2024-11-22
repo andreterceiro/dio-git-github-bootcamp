@@ -238,3 +238,8 @@ Teacher passed us two links:
 Github has as amizing Kanban board!
 
 ![Github kanban board](images/github-kanban-board.png)
+
+
+### Github copilot
+
+Is a paid tool, even for individual users. But you can request a student or teacher free access in [http://education.github.com](http://education.github.com). You can also use a trial period.
