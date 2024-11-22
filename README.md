@@ -231,3 +231,10 @@ Teacher passed us two links:
 [Link 1](https://aline-antunes.gitbook.io/formacao-fundamentos-github/)
 
 [Link 2](https://github.com/alinealien/formacao-github)
+
+
+### Github projects
+
+Github has as amizing Kanban board!
+
+![Github kanban board](images/github-kanban-board.png)
