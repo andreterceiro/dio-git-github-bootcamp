@@ -222,3 +222,12 @@ You can see your active sessions both related to web access as on Github mobile 
 You can also see information about billing in settings:
 
 ![Github billing](images/github-billing.png)
+
+
+### Important links
+
+Teacher passed us two links:
+
+[Link 1](https://aline-antunes.gitbook.io/formacao-fundamentos-github/)
+
+[Link 2](https://github.com/alinealien/formacao-github)
