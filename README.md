@@ -195,7 +195,7 @@ There are also charges per use as example in the case of Github Actions (related
 This page have a link to create a free organization.
 
 
-# Github desktop
+### Github desktop
 
 Main characteristics:
 
@@ -208,3 +208,5 @@ To install in Linux Mint I followed these instructions from [this link](https://
 3. Run downloaded file
 
 I tested Github Desktop. Please see [this video](https://youtu.be/x50R43HEN28).
+
+
