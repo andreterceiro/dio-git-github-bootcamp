@@ -210,8 +210,15 @@ To install in Linux Mint I followed these instructions from [this link](https://
 I tested Github Desktop. Please see [this video](https://youtu.be/x50R43HEN28).
 
 
-### Sessions
+### Github Sessions
 
 You can see your active sessions both related to web access as on Github mobile on your profile:
 
 ![Github sessions](images/github-sessions.png)
+
+
+### Github billing
+
+You can also see information about billing in settings:
+
+![Github billing](images/github-billing.png)
