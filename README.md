@@ -257,3 +257,8 @@ After or the payment or the request access throuhg an educational company be apr
 ![Github Copilot Extension](images/github-copilot-extension.png)
 
 You can interact with Google Copilot through a chat (left side of the next image) or pressing *<Ctrl + I>.*
+
+
+### Github codespaces
+
+Github codespaces allows you to user a Github Docker container to you, user, uses to delevop. You will still need your workstation to connect to Github Codespaces, but all tools that you will need to develop will be available in the Gihub Codespaces container.
