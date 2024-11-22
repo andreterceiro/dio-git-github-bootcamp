@@ -206,3 +206,5 @@ To install in Linux Mint I followed these instructions from [this link](https://
 1. Check latest version: https://github.com/shiftkey/desktop
 2. Download: https://github.com/shiftkey/desktop/releases/download/release-3.1.1-linux1/GitHubDesktop-linux-3.1.1-linux1.deb
 3. Run downloaded file
+
+I tested Github Desktop. Please see [this video](https://youtu.be/x50R43HEN28).
