@@ -247,3 +247,7 @@ Is a paid tool, even for individual users. But you can request a student or teac
 I didn't requested a trial period because [the website](http://copilot.github.com) requests a credit card...
 
 The email to request an eductional access must be related to a valid educational institute, like a college.
+
+As a student you can have in the Github platform more than 1 email associated to your account
+
+![extra email](images/extra-email.png)
