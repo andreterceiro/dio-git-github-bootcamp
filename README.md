@@ -251,3 +251,7 @@ The email to request an eductional access must be related to a valid educational
 As a student you can have in the Github platform more than 1 email associated to your account
 
 ![extra email](images/extra-email.png)
+
+After or the payment or the request access throuhg an educational company be aproved, you need to install a plugin in a IDE. In case of Visual Studio Code:
+
+![Github Copilot Extension](images/github-copilot-extension.png)
