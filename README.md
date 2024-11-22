@@ -245,3 +245,5 @@ Github has as amizing Kanban board!
 Is a paid tool, even for individual users. But you can request a student or teacher free access in [http://education.github.com](http://education.github.com). You can also use a trial period.
 
 I didn't requested a trial period because [the website](http://copilot.github.com) requests a credit card...
+
+The email to request an eductional access must be related to a valid educational institute, like a college.
