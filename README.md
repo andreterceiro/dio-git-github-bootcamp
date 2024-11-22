@@ -193,3 +193,10 @@ There are also charges per use as example in the case of Github Actions (related
 [Capabilities and prices](https://github.com/pricing) related to subscription Github plans.
 
 This page have a link to create a free organization.
+
+
+# Github desktop
+
+Main characteristics:
+
+![main characteristics of Github Desktop](images/main-characteristics-github-desktop.png)
