@@ -304,3 +304,7 @@ Teacher talked about this page to manage the permissions:
 In the next page can be managed the privileges related to the organization. As you can see in the next image, you cannot select a role in this page:
 
 ![Github - managing privileges](images/github-organization-manage-privileges.png)
+
+As you can see in the next image, teacher could select a permission to a role:
+
+![Github - permissions per roles](images/github-permission-per-role.png)
