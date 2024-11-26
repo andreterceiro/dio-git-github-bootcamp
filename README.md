@@ -266,3 +266,13 @@ Github codespaces allows you to user a Github Docker container to you, user, use
 Github Codespaces is a paid service, but you can use it for free for 60 minutes.
 
 Github Codespaces auto turn off after 30 minutes of inactivity.
+
+
+### Github Wiki menus
+
+As you can see in the next image:
+
+- You can use **markdown** in your wiki pages;
+- When you create a title h1 with the tag "#", the title will be in the menu on the right (please see the next image).
+
+![Wiki menu](images/wiki-menu.png)
