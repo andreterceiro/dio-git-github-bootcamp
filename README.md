@@ -283,7 +283,7 @@ As you can see in the next image:
 In this video teacher don't talked about 'personal'. She talked about these three levels:
 
 - Teams: refers to teams related to a repository or team inside an organization. She talked about select permissions based on the role of each person;
-- Organization: teacher talked that is a little similar of the teams level. She teached us that administrators in this level can select some things to manage related to the organization;
+- Organization: teacher talked that is a little similar of the teams level. She teached us that administrators in this level can select some things to manage related to the organization, that can have 1 or more teams;
 - Enterprise: she teached that in this level we have more granularity and talk about things like:
     - SAML;
     - Add or remove organizations related to the company;
