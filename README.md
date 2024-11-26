@@ -276,3 +276,12 @@ As you can see in the next image:
 - When you create a title h1 with the tag "#", the title will be in the menu on the right (please see the next image).
 
 ![Wiki menu](images/wiki-menu.png)
+
+
+### Levels
+
+In this video teacher don't talked about 'personal'. She talked about these three levels:
+
+- Organization;
+- Teams;
+- Enterprise.
