@@ -294,3 +294,9 @@ In this video teacher don't talked about 'personal'. She talked about these thre
 ### Permissions
 
 We are talking about permissions related to an organization.
+
+Teacher talked about this page to manage the permissions:
+
+![Manage access page](images/manage-access-page.png)
+
+[As you can see, I didn't find this page](https://youtu.be/ABYannx463U)
