@@ -284,7 +284,7 @@ In this video teacher don't talked about 'personal'. She talked about these thre
 
 - Teams: refers to teams related to a repository or team inside an organization. She talked about select permissions based on the role of each person;
 - Organization: teacher talked that is a little similar of the teams level. She teached us that administrators in this level can select some things to manage related to the organization, that can have 1 or more teams. The configuration of all organization can affect more than 1 repository of the organization;
-- Enterprise: she teached that in this level we have more granularity and talk about things like:
+- Enterprise: teacher talked that this level deal with things bigger than teams and repositories of the company. She teached that in this level we have more granularity and talk about things like:
     - SAML;
     - Add or remove organizations related to the company;
     - Policies for repositories, projects and teams;
