@@ -289,3 +289,8 @@ In this video teacher don't talked about 'personal'. She talked about these thre
     - Add or remove organizations related to the company;
     - Policies for repositories, projects and teams;
     - Things related to billing.
+
+
+### Permissions
+
+We are talking about permissions related to an organization.
