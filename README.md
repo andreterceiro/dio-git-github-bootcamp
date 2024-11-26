@@ -300,3 +300,7 @@ Teacher talked about this page to manage the permissions:
 ![Manage access page](images/manage-access-page.png)
 
 [As you can see, I didn't find this page](https://youtu.be/ABYannx463U)
+
+In the next page can be managed the privileges related to the organization. As you can see in the next image, you cannot select a role in this page:
+
+![Github - managing privileges](images/github-organization-manage-privileges.png)
